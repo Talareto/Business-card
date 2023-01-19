@@ -1,0 +1,180 @@
+body
+{
+    background-color: black;
+    color: beige;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.rectangle
+{
+    width: 960px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+.square
+{
+    width: 50%;
+    float: left;
+}
+#logo
+{
+    float:left;
+    font-size: 50px;
+    width: 600px;
+    text-align: left;
+
+}
+#zegar
+{
+    float:left;
+    font-size: 50px;
+    text-align: right;
+
+}
+.block1{
+    width: 230px;
+    margin: 10px;
+    height: 142px;
+    float: left;
+    background-color:azure;
+    text-align: center
+}
+.block1:hover
+{
+    background-color:royalblue;
+}
+.block2{
+    width: 230px;
+    margin: 10px;
+    height: 142px;
+    float: left;
+    background-color: aqua;
+    text-align: center;
+
+}
+.block2:hover
+{
+    background-color:darkcyan;
+}
+.block3{
+    width: 230px;
+    margin: 10px;
+    height: 142px;
+    float: left;
+    background-color:rosybrown;
+    text-align: center;
+
+}
+.block3:hover
+{
+    background-color:darkcyan;
+}
+.block4{
+    width: 420px;
+    margin: 10px;
+    height: 82px;
+    background-color:greenyellow;
+    text-align: center;
+    font-size: 26px;
+    padding: 30px;
+
+
+}
+.block5{
+    width: 420px;
+    margin: 10px;
+    height: 244px;
+    background-color:gray;
+    text-align: justify;
+    padding: 30px;
+
+}
+.yt{
+    width: 105px;
+    margin: 10px;
+    height: 142px;
+    float: left;
+    background-color:red;
+
+}
+.yt:hover
+{
+    background-color: darkred;
+}
+.fb{
+    width: 105px;
+    margin: 10px;
+    height: 142px;
+    float: left;
+    background-color:royalblue;
+
+}
+.fb:hover
+{
+    background-color: darkblue;
+}
+.inst{
+    width: 105px;
+    margin: 10px;
+    height: 142px;
+    float: left;
+    background-color:deeppink;
+
+}
+.inst:hover
+{
+    background-color: darkorchid;
+}
+.gplus{
+    width: 105px;
+    margin: 10px;
+    height: 142px;
+    float: left;
+    background-color:darkorange;
+
+}
+.gplus:hover
+{
+    background-color: orangered;
+}
+a.tilelink
+{
+    color: black;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+a.tilelinkhtml5
+{
+    color: black;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+a.sociallink
+{
+    color: black;
+    text-decoration: none;
+    display: block;
+    width: 105px;
+    height: 142px;
+}
+a.tilelinkhtml5white
+{
+    color: white;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 142px;
+}
